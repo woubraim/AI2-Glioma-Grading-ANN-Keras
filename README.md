@@ -1,4 +1,4 @@
-#Project 2: Predictive Analysis and Feature Selection for Cancer Data
+# Project 2: Predictive Analysis and Feature Selection for Cancer Data
 Overview
 
 This project expands on glioma grading, focusing on improving predictive accuracy by analyzing and selecting the most informative features from both clinical and genetic data. The goal is to identify a minimal yet highly predictive subset of features, potentially reducing data collection costs while maintaining robust glioma grading accuracy.
